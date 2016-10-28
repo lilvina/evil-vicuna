@@ -1,15 +1,20 @@
 # evil-vicuna
 
-Description
+## Description
 
 Complete the intermediate algorithm scripting section here:
 https://www.freecodecamp.com/map
 
-Specifications
+## Specifications
 
-Listed in the link above
+Use links above to complete the following courses:
 
-Required
+### FreeCodeCamp
+
+  - [x] Intermediate Algorithms (50 Hours)
+  - Solutions: https://www.freecodecamp.com/lilvina
+
+## Required
 
 Do not remove these specs - they are required for all goals.
 
